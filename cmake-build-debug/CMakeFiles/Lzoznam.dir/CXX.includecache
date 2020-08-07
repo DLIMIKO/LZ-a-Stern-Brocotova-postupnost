@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/matusnecas/Lzoznam/linearny_zoznam.cpp
+linearny_zoznam.h
+/Users/matusnecas/Lzoznam/linearny_zoznam.h
+iostream
+-
+
+/Users/matusnecas/Lzoznam/linearny_zoznam.h
+
+/Users/matusnecas/Lzoznam/main.cpp
+iostream
+-
+iomanip
+-
+linearny_zoznam.h
+/Users/matusnecas/Lzoznam/linearny_zoznam.h
+
