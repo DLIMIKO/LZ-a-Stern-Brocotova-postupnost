@@ -44,10 +44,10 @@ RM = "/Users/matusnecas/Library/Application Support/JetBrains/Toolbox/apps/CLion
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/matusnecas/Lzoznam
+CMAKE_SOURCE_DIR = /Users/matusnecas/LZ-a-Stern-Brocotova-postupnost
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/matusnecas/Lzoznam/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/matusnecas/LZ-a-Stern-Brocotova-postupnost/cmake-build-debug
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -74,14 +74,14 @@ preinstall:
 CMakeFiles/Lzoznam.dir/all:
 	$(MAKE) -f CMakeFiles/Lzoznam.dir/build.make CMakeFiles/Lzoznam.dir/depend
 	$(MAKE) -f CMakeFiles/Lzoznam.dir/build.make CMakeFiles/Lzoznam.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/matusnecas/Lzoznam/cmake-build-debug/CMakeFiles --progress-num=1,2,3 "Built target Lzoznam"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/matusnecas/LZ-a-Stern-Brocotova-postupnost/cmake-build-debug/CMakeFiles --progress-num=1,2,3 "Built target Lzoznam"
 .PHONY : CMakeFiles/Lzoznam.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Lzoznam.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/matusnecas/Lzoznam/cmake-build-debug/CMakeFiles 3
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/matusnecas/LZ-a-Stern-Brocotova-postupnost/cmake-build-debug/CMakeFiles 3
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/Lzoznam.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/matusnecas/Lzoznam/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/matusnecas/LZ-a-Stern-Brocotova-postupnost/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/Lzoznam.dir/rule
 
 # Convenience name for target.

@@ -43,10 +43,10 @@ RM = "/Users/matusnecas/Library/Application Support/JetBrains/Toolbox/apps/CLion
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/matusnecas/Lzoznam
+CMAKE_SOURCE_DIR = /Users/matusnecas/LZ-a-Stern-Brocotova-postupnost
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/matusnecas/Lzoznam/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/matusnecas/LZ-a-Stern-Brocotova-postupnost/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Lzoznam.dir/depend.make
@@ -59,29 +59,29 @@ include CMakeFiles/Lzoznam.dir/flags.make
 
 CMakeFiles/Lzoznam.dir/main.cpp.o: CMakeFiles/Lzoznam.dir/flags.make
 CMakeFiles/Lzoznam.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/matusnecas/Lzoznam/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Lzoznam.dir/main.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Lzoznam.dir/main.cpp.o -c /Users/matusnecas/Lzoznam/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/matusnecas/LZ-a-Stern-Brocotova-postupnost/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Lzoznam.dir/main.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Lzoznam.dir/main.cpp.o -c /Users/matusnecas/LZ-a-Stern-Brocotova-postupnost/main.cpp
 
 CMakeFiles/Lzoznam.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Lzoznam.dir/main.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/matusnecas/Lzoznam/main.cpp > CMakeFiles/Lzoznam.dir/main.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/matusnecas/LZ-a-Stern-Brocotova-postupnost/main.cpp > CMakeFiles/Lzoznam.dir/main.cpp.i
 
 CMakeFiles/Lzoznam.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Lzoznam.dir/main.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/matusnecas/Lzoznam/main.cpp -o CMakeFiles/Lzoznam.dir/main.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/matusnecas/LZ-a-Stern-Brocotova-postupnost/main.cpp -o CMakeFiles/Lzoznam.dir/main.cpp.s
 
 CMakeFiles/Lzoznam.dir/linearny_zoznam.cpp.o: CMakeFiles/Lzoznam.dir/flags.make
 CMakeFiles/Lzoznam.dir/linearny_zoznam.cpp.o: ../linearny_zoznam.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/matusnecas/Lzoznam/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Lzoznam.dir/linearny_zoznam.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Lzoznam.dir/linearny_zoznam.cpp.o -c /Users/matusnecas/Lzoznam/linearny_zoznam.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/matusnecas/LZ-a-Stern-Brocotova-postupnost/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Lzoznam.dir/linearny_zoznam.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Lzoznam.dir/linearny_zoznam.cpp.o -c /Users/matusnecas/LZ-a-Stern-Brocotova-postupnost/linearny_zoznam.cpp
 
 CMakeFiles/Lzoznam.dir/linearny_zoznam.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Lzoznam.dir/linearny_zoznam.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/matusnecas/Lzoznam/linearny_zoznam.cpp > CMakeFiles/Lzoznam.dir/linearny_zoznam.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/matusnecas/LZ-a-Stern-Brocotova-postupnost/linearny_zoznam.cpp > CMakeFiles/Lzoznam.dir/linearny_zoznam.cpp.i
 
 CMakeFiles/Lzoznam.dir/linearny_zoznam.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Lzoznam.dir/linearny_zoznam.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/matusnecas/Lzoznam/linearny_zoznam.cpp -o CMakeFiles/Lzoznam.dir/linearny_zoznam.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/matusnecas/LZ-a-Stern-Brocotova-postupnost/linearny_zoznam.cpp -o CMakeFiles/Lzoznam.dir/linearny_zoznam.cpp.s
 
 # Object files for target Lzoznam
 Lzoznam_OBJECTS = \
@@ -95,7 +95,7 @@ Lzoznam: CMakeFiles/Lzoznam.dir/main.cpp.o
 Lzoznam: CMakeFiles/Lzoznam.dir/linearny_zoznam.cpp.o
 Lzoznam: CMakeFiles/Lzoznam.dir/build.make
 Lzoznam: CMakeFiles/Lzoznam.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/matusnecas/Lzoznam/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable Lzoznam"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/matusnecas/LZ-a-Stern-Brocotova-postupnost/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable Lzoznam"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Lzoznam.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -108,6 +108,6 @@ CMakeFiles/Lzoznam.dir/clean:
 .PHONY : CMakeFiles/Lzoznam.dir/clean
 
 CMakeFiles/Lzoznam.dir/depend:
-	cd /Users/matusnecas/Lzoznam/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/matusnecas/Lzoznam /Users/matusnecas/Lzoznam /Users/matusnecas/Lzoznam/cmake-build-debug /Users/matusnecas/Lzoznam/cmake-build-debug /Users/matusnecas/Lzoznam/cmake-build-debug/CMakeFiles/Lzoznam.dir/DependInfo.cmake --color=$(COLOR)
+	cd /Users/matusnecas/LZ-a-Stern-Brocotova-postupnost/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/matusnecas/LZ-a-Stern-Brocotova-postupnost /Users/matusnecas/LZ-a-Stern-Brocotova-postupnost /Users/matusnecas/LZ-a-Stern-Brocotova-postupnost/cmake-build-debug /Users/matusnecas/LZ-a-Stern-Brocotova-postupnost/cmake-build-debug /Users/matusnecas/LZ-a-Stern-Brocotova-postupnost/cmake-build-debug/CMakeFiles/Lzoznam.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/Lzoznam.dir/depend
 

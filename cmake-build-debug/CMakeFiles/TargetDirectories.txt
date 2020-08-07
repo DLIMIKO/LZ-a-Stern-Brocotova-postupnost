@@ -1,3 +1,3 @@
-/Users/matusnecas/Lzoznam/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/matusnecas/Lzoznam/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/matusnecas/Lzoznam/cmake-build-debug/CMakeFiles/Lzoznam.dir
+/Users/matusnecas/LZ-a-Stern-Brocotova-postupnost/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/matusnecas/LZ-a-Stern-Brocotova-postupnost/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/matusnecas/LZ-a-Stern-Brocotova-postupnost/cmake-build-debug/CMakeFiles/Lzoznam.dir

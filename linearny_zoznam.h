@@ -18,6 +18,8 @@
  *      2.) obojstranný (každý prvok odkazuje na ďalší a predchádzajúci prvok, na začiatku aj na konci je zarážka)
  *      3.) kruhový (keď posledný prvok odkazuje na prvý)
  *
+ *      Poznámka: My budeme v tomto projekte používať jednosmerný zoznam typu int.
+ *
  * --> Vlastnosti:
  *      1.) LZ je pamäťovo nenáročná štruktúra
  *      2.) možno zoskupiť ľubovoľný počet prvkov, limitovaní sme iba pamäťovou kapacitou počítača (RAM)

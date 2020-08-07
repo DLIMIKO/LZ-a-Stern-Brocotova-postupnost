@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/matusnecas/Lzoznam/linearny_zoznam.cpp" "/Users/matusnecas/Lzoznam/cmake-build-debug/CMakeFiles/Lzoznam.dir/linearny_zoznam.cpp.o"
-  "/Users/matusnecas/Lzoznam/main.cpp" "/Users/matusnecas/Lzoznam/cmake-build-debug/CMakeFiles/Lzoznam.dir/main.cpp.o"
+  "/Users/matusnecas/LZ-a-Stern-Brocotova-postupnost/linearny_zoznam.cpp" "/Users/matusnecas/LZ-a-Stern-Brocotova-postupnost/cmake-build-debug/CMakeFiles/Lzoznam.dir/linearny_zoznam.cpp.o"
+  "/Users/matusnecas/LZ-a-Stern-Brocotova-postupnost/main.cpp" "/Users/matusnecas/LZ-a-Stern-Brocotova-postupnost/cmake-build-debug/CMakeFiles/Lzoznam.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
